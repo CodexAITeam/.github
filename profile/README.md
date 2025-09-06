@@ -10,7 +10,7 @@ Our mission is to bridge cutting-edge artificial intelligence with the needs of 
 ---
 
 ## 📂 **Projects**
-### 🔍 [TibetanLayoutAnalyzer](https://github.com/CodexAITeam/TibetanLayoutAnalyzer)
+### 🔍 [PechaBridge](https://github.com/CodexAITeam/PechaBridge)
 An AI-driven tool for analyzing the layout of complex Tibetan documents, such as Leporellos and folded manuscripts. Key features include:
 - Layout detection and segmentation.
 - Recognition and extraction of Tibetan page numbers.
